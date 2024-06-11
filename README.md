@@ -1,2 +1,2 @@
-# mobile-dev
-Repository mobile untuk Capstone Bangkit
+# mobile-development
+MD part of our Bangkit Capstone project.
